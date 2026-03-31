@@ -155,7 +155,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 **Seu Nome**
 
-- GitHub: Adryan luccas e gabriel henrique
+- GitHub: Adryan luccas e Gabriel Henrique
 - LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
 - Email: seu.email@exemplo.com
 
