@@ -157,8 +157,8 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 - GitHub: Adryan luccas e Gabriel Henrique
 - LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@exemplo.com
-
+- Email: gabrielhenrique2512200@gmail.com
+- Email:lucasadryan95@gmail.com
 ## 📞 Suporte
 
 Para dúvidas ou sugestões, abra uma [issue](https://github.com/seu-usuario/portfolio-react/issues).
